@@ -7,8 +7,7 @@ jubav, aka **J**IT **U**niversal **B**ootloader-less **A**ndroid **V**ariant OS,
 ## Current kernel features:
 
 - Written entirely in C11
-- Unix-like
-- Monolithic arhitecture
+- Unix-like monolithic arhitecture
 - Memory: small footprint, 32-bit protected mode, support for paging
 - Virtual memory: supports for memory allocation algorithms (binary and buddy)
 - Tasks management: mulithreading, hardware switched tasks, round-robin scheduler
