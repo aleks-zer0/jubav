@@ -1,4 +1,4 @@
-# Welcome to the project jubav! 
+# Welcome to the project jubav! ♥
 
 ## What is jubav?
 
