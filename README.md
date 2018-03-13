@@ -25,4 +25,4 @@ jubav, aka **J**IT **U**niversal **B**ootloader-less **A**ndroid **V**ariant OS,
 
 ## Goals:
 
-The main goal of the project is to provide faster alternative for Android: an modern fast small operating system which will be fully compatible with the Linux kernel in the system call layer. The compatibility with Linux kernel is very important, because jubav has to enable running programs compiled for Linux. This is a base of the jubav project.
+The main goal of the project is to provide faster alternative for Android: an modern fast small operating system which will be fully compatible with the Linux kernel system call layer. The compatibility with Linux kernel is very important, because jubav has to enable running programs compiled for Linux. This is a base of the jubav project.
