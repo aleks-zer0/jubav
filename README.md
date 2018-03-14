@@ -15,7 +15,7 @@ jubav, aka **J**IT **U**niversal **B**ootloader-less **A**ndroid **V**ariant OS,
 - Interrupts: interrupts serviced in fastirq kernel thread
 - Timers: RT timers, 100Hz system clock
 - Network: support for ethernet, ARP and IP protocols
-- Driver interface: own driver interface named ADI (Agnix Driver Interface)
+- Driver interface: own driver interface named jDI (jubav Driver Interface)
 - Drivers: 8254, 8259, RTC, DMA chips, PCI bus, support for RTL-8029(AS) network card
 - Power management: support for APM
 - Support for busses: full support for PCI bus, PCI devices and PCI IRQs
